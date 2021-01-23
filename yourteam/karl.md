@@ -2,8 +2,8 @@
 
 1. Hobbies
     1. jumping of bridges
-    * ~~failing tests~~
-    1. getting hit by cars
+    1. ~~failing tests~~
+    * getting hit by cars
 
 1. Skills 
     1. bouncy

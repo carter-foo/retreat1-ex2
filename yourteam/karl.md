@@ -5,11 +5,11 @@
     1. failing tests
     1. getting hit by cars
 
-2. Skills 
-    2. bouncy
-    2. consumable
-3. adjectives
-    3. fastly
-    3. currentlly
+1. Skills 
+    1. bouncy
+    1. consumable
+1. adjectives
+    * fastly
+    * currentlly
 
 ![Alt Text](https://cdn.searchenginejournal.com/wp-content/uploads/2019/08/c573bf41-6a7c-4927-845c-4ca0260aad6b-760x400.jpeg)    
